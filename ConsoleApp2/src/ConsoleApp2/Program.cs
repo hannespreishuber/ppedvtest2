@@ -9,6 +9,7 @@ namespace ConsoleApp2
     {
         public void Main(string[] args)
         {
+            //kommentar
         }
     }
 }
